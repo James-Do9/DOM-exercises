@@ -1,6 +1,6 @@
-var elem = document.createElement("p");
+var elem = document.createElement("H1");
 elem.innerHTML = "Hello World";
-elem.style.backgroundColor = "yellow";
 document.querySelector("#myDiv").appendChild(elem);
 
+//Your code here
 // Don'change the code above
